@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ogirimah
 - 👀 I’m interested in cloud based application solutions and ML
-- 🌱 I’m currently learning TensorFlow.js
-- 💞️ I’m looking to collaborate on full-stack web development projects
+- 🌱 I’m currently researching The application of SNNs in Robotics
+- 💞️ I’m looking to collaborate on AI-powered full-stack web projects
 - 📫 You can reach me on linkedin with https://www.linkedin.com/in/ameerogirimah
 
 <!---
